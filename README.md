@@ -5,10 +5,12 @@
 
 --HOW TO USE--
 1) Download this project on your machine
-2) Write on your terminal to "npm start" for the run server side script
-3) Go to "http://localhost:3000/public/" on your search engine
-4) Finally you can see what I code
-5) Demo: "https://hmk-code.github.io/WeatherApp/public"
+2) "https://rapidapi.com/weatherapi/api/weatherapi-com/" subscribe this api its totally for free
+3) Add your api key to necessary lines (you get some hint while check my code if you have stuck)
+4) Write on your terminal to "npm start" for the run server side script
+5) Go to "http://localhost:3000/public/" on your search engine
+6) Finally you can see what I code
+
 
 --EXPECTATION--
 1) We expect london's and ankara's real time weather info
