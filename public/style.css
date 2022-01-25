@@ -1,8 +1,14 @@
 body{
     background-color: #ccc;
-    z-index: -1;
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
+    position: relative;
 }
+
+img{
+    flex-direction: row;
+    display: flex;
+    position: absolute;
+}
+

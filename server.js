@@ -13,7 +13,7 @@ app.get('/astroL', async (req, res) => {
         "method": "GET",
         "headers": {
             "x-rapidapi-host": "weatherapi-com.p.rapidapi.com",
-            "x-rapidapi-key": "22e273890fmsh6d078aaa098b626p1ac82cjsn6f47bdfb5a3f"
+            "x-rapidapi-key": api_key
         }
     })
 
@@ -27,7 +27,7 @@ app.get('/astroA', async (req, res) =>{
         "method": "GET",
         "headers": {
             "x-rapidapi-host": "weatherapi-com.p.rapidapi.com",
-            "x-rapidapi-key": "22e273890fmsh6d078aaa098b626p1ac82cjsn6f47bdfb5a3f"
+            "x-rapidapi-key": api_key
         }
     })
 
