@@ -8,6 +8,7 @@
 2) Write on your terminal to "npm start" for the run server side script
 3) Go to "http://localhost:3000/public/" on your search engine
 4) Finally you can see what I code
+5) Demo: "https://hmk-code.github.io/WeatherApp/public"
 
 --EXPECTATION--
 1) We expect london's and ankara's real time weather info
