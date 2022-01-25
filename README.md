@@ -5,7 +5,7 @@
 
 --HOW TO USE--
 1) Download this project on your machine
-2) "https://rapidapi.com/weatherapi/api/weatherapi-com/" subscribe this api its totally for free
+2) https://rapidapi.com/weatherapi/api/weatherapi-com/ subscribe this api its totally for free
 3) Add your api key to necessary lines (you get some hint while check my code if you have stuck)
 4) Write on your terminal to "npm start" for the run server side script
 5) Go to "http://localhost:3000/public/" on your search engine
